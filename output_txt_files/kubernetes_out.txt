@@ -1,4 +1,4 @@
-(.devops) voclabs:~/environment/DevOps_Microservices/project-ml-microservice-kubernetes (master) $ ./run_kubernetes.sh
+(.devops) vineetrai@Vineets-Air udacity-project4 (master) $ ./run_kubernetes.sh
 Error from server (AlreadyExists): pods "udacitypod" already exists
 NAMESPACE     NAME                               READY   STATUS    RESTARTS       AGE
 default       udacitypod                         1/1     Running   0              55s
