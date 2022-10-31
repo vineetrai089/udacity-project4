@@ -1,4 +1,4 @@
-[![vineetrai089](https://circleci.com/gh/vineetrai089/udacity-project4.svg?style=svg)](https://github.com/vineetrai089/udacity-project4/tree/master)
+[![vineetrai089](https://circleci.com/gh/vineetrai089/udacity-project4.svg?style=svg)](https://app.circleci.com/pipelines/github/vineetrai089/udacity-project4?branch=master)
 
 ## Project Summary
 
